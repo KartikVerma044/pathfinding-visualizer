@@ -50,6 +50,5 @@ After visualization you can reposition start and end node as you want and add an
 ## Developers
 ### This Project was built by
 
-- [Harshit Sureka](https://github.com/hsureka)
 - [Kartik Verma](https://github.com/kartikverma044)
-- [Vineet Agarwal](https://github.com/vineet140502)
+- [Shreyansh Rai](https://github.com/Cranius7)
